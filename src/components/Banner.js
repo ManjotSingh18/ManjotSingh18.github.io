@@ -68,7 +68,7 @@ export const Banner = () => {
                         <button
                             style={{ backgroundColor: 'transparent', borderRadius: '50px', padding: '10px' }}
                             onClick={() => console.log('connect')}>
-                            Let's connect <ArrowRightCircle size={25} />
+                            Let's connect <ArrowRightCircle size={25}/>
                         </button>
                     </Nav.Link>
                 </Row>
